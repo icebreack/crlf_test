@@ -1,0 +1,9 @@
+%0D%0ASet-Cookie:mycookie=myvalue
+%0d%0aSet-Cookie:mycookie=myvalue
+crlf%0dSet-Cookie:mycookie=myvalue
+crlf%0aSet-Cookie:mycookie=myvalue
+%23%0dSet-Cookie:mycookie=myvalue
+%0dSet-Cookie:mycookie=myvalue
+%0ASet-Cookie:mycookie=myvalue?foo
+%0aSet-Cookie:mycookie=myvalue
+/xxx%0ASet-Cookie:mycookie=myvalue
